@@ -1,4 +1,4 @@
-# -Hospital-Management-System-MongoDB-
+# Hospital-Management-System-MongoDB
 A NoSQL-based Patient Management System with advanced appointment overlap checking.
 # 🏥 KMD Hospital Management System (MongoDB)
 
